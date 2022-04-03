@@ -17,4 +17,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/twrp_RMX2020.mk
+     $(LOCAL_DIR)/twrp_RMP2102.mk
